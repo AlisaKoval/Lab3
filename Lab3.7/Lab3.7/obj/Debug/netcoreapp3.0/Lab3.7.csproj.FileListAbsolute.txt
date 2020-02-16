@@ -1,0 +1,11 @@
+C:\Users\alisa\source\repos\Lab3.7\Lab3.7\bin\Debug\netcoreapp3.0\Lab3.7.exe
+C:\Users\alisa\source\repos\Lab3.7\Lab3.7\bin\Debug\netcoreapp3.0\Lab3.7.deps.json
+C:\Users\alisa\source\repos\Lab3.7\Lab3.7\bin\Debug\netcoreapp3.0\Lab3.7.runtimeconfig.json
+C:\Users\alisa\source\repos\Lab3.7\Lab3.7\bin\Debug\netcoreapp3.0\Lab3.7.runtimeconfig.dev.json
+C:\Users\alisa\source\repos\Lab3.7\Lab3.7\bin\Debug\netcoreapp3.0\Lab3.7.dll
+C:\Users\alisa\source\repos\Lab3.7\Lab3.7\bin\Debug\netcoreapp3.0\Lab3.7.pdb
+C:\Users\alisa\source\repos\Lab3.7\Lab3.7\obj\Debug\netcoreapp3.0\Lab3.7.csprojAssemblyReference.cache
+C:\Users\alisa\source\repos\Lab3.7\Lab3.7\obj\Debug\netcoreapp3.0\Lab3.7.AssemblyInfoInputs.cache
+C:\Users\alisa\source\repos\Lab3.7\Lab3.7\obj\Debug\netcoreapp3.0\Lab3.7.AssemblyInfo.cs
+C:\Users\alisa\source\repos\Lab3.7\Lab3.7\obj\Debug\netcoreapp3.0\Lab3.7.dll
+C:\Users\alisa\source\repos\Lab3.7\Lab3.7\obj\Debug\netcoreapp3.0\Lab3.7.pdb

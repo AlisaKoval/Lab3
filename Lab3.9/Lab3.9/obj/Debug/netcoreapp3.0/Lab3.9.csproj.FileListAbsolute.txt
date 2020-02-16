@@ -1,0 +1,11 @@
+C:\Users\alisa\OneDrive\Рабочий стол\Lab1\repos\Lab3.9\Lab3.9\obj\Debug\netcoreapp3.0\Lab3.9.csprojAssemblyReference.cache
+C:\Users\alisa\OneDrive\Рабочий стол\Lab1\repos\Lab3.9\Lab3.9\obj\Debug\netcoreapp3.0\Lab3.9.AssemblyInfoInputs.cache
+C:\Users\alisa\OneDrive\Рабочий стол\Lab1\repos\Lab3.9\Lab3.9\obj\Debug\netcoreapp3.0\Lab3.9.AssemblyInfo.cs
+C:\Users\alisa\OneDrive\Рабочий стол\Lab1\repos\Lab3.9\Lab3.9\bin\Debug\netcoreapp3.0\Lab3.9.exe
+C:\Users\alisa\OneDrive\Рабочий стол\Lab1\repos\Lab3.9\Lab3.9\bin\Debug\netcoreapp3.0\Lab3.9.deps.json
+C:\Users\alisa\OneDrive\Рабочий стол\Lab1\repos\Lab3.9\Lab3.9\bin\Debug\netcoreapp3.0\Lab3.9.runtimeconfig.json
+C:\Users\alisa\OneDrive\Рабочий стол\Lab1\repos\Lab3.9\Lab3.9\bin\Debug\netcoreapp3.0\Lab3.9.runtimeconfig.dev.json
+C:\Users\alisa\OneDrive\Рабочий стол\Lab1\repos\Lab3.9\Lab3.9\bin\Debug\netcoreapp3.0\Lab3.9.dll
+C:\Users\alisa\OneDrive\Рабочий стол\Lab1\repos\Lab3.9\Lab3.9\bin\Debug\netcoreapp3.0\Lab3.9.pdb
+C:\Users\alisa\OneDrive\Рабочий стол\Lab1\repos\Lab3.9\Lab3.9\obj\Debug\netcoreapp3.0\Lab3.9.dll
+C:\Users\alisa\OneDrive\Рабочий стол\Lab1\repos\Lab3.9\Lab3.9\obj\Debug\netcoreapp3.0\Lab3.9.pdb
